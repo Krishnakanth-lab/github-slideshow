@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The subtle art of not giving a f***
 Use the left arrow to go back!
